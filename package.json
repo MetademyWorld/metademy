@@ -1,6 +1,6 @@
 {
-	"name": "virtual_art_gallery",
-	"description": "Explore an art gallery in your browser.",
+	"name": "metademyworld",
+	"description": "Explore an metaverse academy world.",
 	"version": "1.0.0",
 	"scripts": {
 		"start": "budo src/index.js",
